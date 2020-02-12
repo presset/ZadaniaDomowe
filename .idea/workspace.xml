@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c8e857f3-37cf-44b3-b4fc-ccdd8ecbe1fc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="IdeaCwiczenia" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Wqs5TNxVoC3YYjCy8NGTbGjmpY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RunManager" selected="JUnit.Tests.productPriceTest">
+    <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ZadaniaDomowe.PakietyWyjatki.Main1" />
+      <module name="IdeaCwiczenia" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ZadaniaDomowe.PakietyWyjatki.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ZadaniaDomowe.PakietyWyjatki.Main1" />
+      <module name="IdeaCwiczenia" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ZadaniaDomowe.PakietyWyjatki.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mnb" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Metody.Person" />
+      <module name="IdeaCwiczenia" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PakietyImporty.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main3.example" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IdeaCwiczenia" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CwiczeniaRozne.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="CwiczeniaRozne" />
+      <option name="MAIN_CLASS_NAME" value="CwiczeniaRozne.Main3" />
+      <option name="METHOD_NAME" value="example" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Person" type="JUnit" factoryName="JUnit" temporary="true">
+      <module name="IdeaCwiczenia" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CwiczeniaRozne.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Metody" />
+      <option name="MAIN_CLASS_NAME" value="Metody.Person" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests.productPriceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IdeaCwiczenia" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Dziedziczenie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Dziedziczenie" />
+      <option name="MAIN_CLASS_NAME" value="Dziedziczenie.Tests" />
+      <option name="METHOD_NAME" value="productPriceTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main1" />
+      <item itemvalue="Application.mnb" />
+      <item itemvalue="JUnit.Main3.example" />
+      <item itemvalue="JUnit.Person" />
+      <item itemvalue="JUnit.Tests.productPriceTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Tests.productPriceTest" />
+        <item itemvalue="Application.mnb" />
+        <item itemvalue="JUnit.Person" />
+        <item itemvalue="Application.Main1" />
+        <item itemvalue="JUnit.Main3.example" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8e857f3-37cf-44b3-b4fc-ccdd8ecbe1fc" name="Default Changelist" comment="" />
+      <created>1579888275328</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579888275328</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="26" key="#Project_Structure" timestamp="1580598969301">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="26" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1580598969301" />
+    <state x="274" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580599987781">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="274" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1580599987781" />
+    <state x="531" y="100" width="374" height="562" key="#com.intellij.ide.util.MemberChooser" timestamp="1581366468471">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="488" y="70" key="#com.intellij.ide.util.MemberChooser/0.0.1366.706@0.0.1366.706" timestamp="1580138747133" />
+    <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1580168980374" />
+    <state x="531" y="100" width="374" height="562" key="#com.intellij.ide.util.MemberChooser/67.27.1299.741@67.27.1299.741" timestamp="1581366468471" />
+    <state x="557" y="170" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1580599732145">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="557" y="170" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1580599732145" />
+    <state x="534" y="257" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1581468628969">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="534" y="257" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1581468628969" />
+    <state x="575" y="289" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/67.27.1299.741@67.27.1299.741" timestamp="1581362807241" />
+    <state x="326" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1581289599135">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="326" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1581289599135" />
+    <state x="462" y="123" key="FileChooserDialogImpl" timestamp="1581289411835">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="462" y="123" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1581289411835" />
+    <state width="1323" height="223" key="GridCell.Tab.0.bottom" timestamp="1580600082014">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="167" key="GridCell.Tab.0.bottom/0.0.1366.706@0.0.1366.706" timestamp="1580148919587" />
+    <state width="1323" height="223" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580600082014" />
+    <state width="1323" height="223" key="GridCell.Tab.0.center" timestamp="1580600082014">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="167" key="GridCell.Tab.0.center/0.0.1366.706@0.0.1366.706" timestamp="1580148919586" />
+    <state width="1323" height="223" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1580600082014" />
+    <state width="1323" height="223" key="GridCell.Tab.0.left" timestamp="1580600082014">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="167" key="GridCell.Tab.0.left/0.0.1366.706@0.0.1366.706" timestamp="1580148919584" />
+    <state width="1323" height="223" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1580600082014" />
+    <state width="1323" height="223" key="GridCell.Tab.0.right" timestamp="1580600082014">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="167" key="GridCell.Tab.0.right/0.0.1366.706@0.0.1366.706" timestamp="1580148919587" />
+    <state width="1323" height="223" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1580600082014" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1580600082014">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="208" key="GridCell.Tab.1.bottom/0.0.1366.706@0.0.1366.706" timestamp="1579913352148" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580600082014" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1580600082014">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="208" key="GridCell.Tab.1.center/0.0.1366.706@0.0.1366.706" timestamp="1579913352148" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1580600082014" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1580600082014">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="208" key="GridCell.Tab.1.left/0.0.1366.706@0.0.1366.706" timestamp="1579913352148" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1580600082014" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1580600082014">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="208" key="GridCell.Tab.1.right/0.0.1366.706@0.0.1366.706" timestamp="1579913352148" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1580600082014" />
+    <state x="186" y="0" key="SettingsEditor" timestamp="1580599811095">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="0" key="SettingsEditor/0.0.1366.706@0.0.1366.706" timestamp="1580133271043" />
+    <state x="186" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1580599811095" />
+    <state x="390" y="185" key="com.intellij.ide.util.TipDialog" timestamp="1581468605555">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="179" key="com.intellij.ide.util.TipDialog/0.0.1366.706@0.0.1366.706" timestamp="1580151861127" />
+    <state x="390" y="185" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1581468605555" />
+    <state x="435" y="298" width="646" height="209" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1581362818063">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="387" y="266" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.728@0.0.1366.728" timestamp="1580599096586" />
+    <state x="435" y="298" width="646" height="209" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/67.27.1299.741@67.27.1299.741" timestamp="1581362818063" />
+    <state x="262" y="104" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1580337756756">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="262" y="104" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728@0.0.1366.728" timestamp="1580337756756" />
+    <state x="65" y="0" key="new project wizard" timestamp="1580599430712">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1580599430712" />
+    <state x="412" y="27" width="598" height="741" key="refactoring.ChangeSignatureDialog" timestamp="1581364492306">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="412" y="27" width="598" height="741" key="refactoring.ChangeSignatureDialog/67.27.1299.741@67.27.1299.741" timestamp="1581364492306" />
+    <state x="346" y="27" width="672" height="678" key="search.everywhere.popup" timestamp="1579905562388">
+      <screen x="0" y="0" width="1366" height="706" />
+    </state>
+    <state x="346" y="27" width="672" height="678" key="search.everywhere.popup/0.0.1366.706@0.0.1366.706" timestamp="1579905562388" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ZadaniaDomowe/ObiektyKlasy/BankAccount.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CwiczeniaRozne/Main1.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CwiczeniaRozne/Main2.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CwiczeniaRozne/Main2.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ZadaniaDomowe/PakietyWyjatki/Main1.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Metody/Person.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="nr3" />
+        <watch expression="nr3" language="JAVA" />
+        <watch expression="nr3" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
